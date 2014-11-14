@@ -1,4 +1,4 @@
 canaima-base
 ============
 
-Propuesta Canaima Base
+Paquete canaima-base

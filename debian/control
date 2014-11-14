@@ -1,0 +1,19 @@
+Source: canaima-base
+Section: metapackages
+Priority: required
+Maintainer: Jesus Palencia <sinfallas@gmail.com>
+Build-Depends: debhelper, cdbs
+Standards-Version: 3.9.5
+Homepage: http://canaima.softwarelibre.gob.ve/
+
+Package: canaima-base
+Maintainer: Jesus Palencia <sinfallas@gmail.com> Hector A. Mantellini <xombra.com@gmail.com>
+Architecture: all
+
+Depends: apcdi, acpi-support, awk, base-files, base-passwd, bash-completion, bsdutils, canaima-llaves, coreutils, dash, debconf-i18n, devio, diffutils, dmraid, dnsmasq, dosfstools, dpkg, e2fslibs, e2fsprogs, fakeroot, findutils,firmware-linux, firmware-linux-free, fuse, gcc, gcc-4.9-base, gcp, grep, grub-pc, gvfs, gvfs-fuse, gzip, hardlink, hdparm, hostname, init-system-helpers, initramfs-tools, initscripts, intltool-debian, iotop, iproute2, isolinux, laptop-detect, libattr1, libcomerr2, libmount1, libncurses5, libpam-modules-bin, libpam-runtime, libpam-systemd, libsepol1, libslang2, libsystemd-daemon0, libsystemd-journal0, libsystemd-login0, lm-sensors, localepurge, locales, login, lsb-release, lshw, lvm2, memlockd, mesa-utils, mount, ncurses-base, ncurses-bin, ntfs-3g, ntfsprogs, ntpdate, pciutils, perl-base, pm-utils, sensible-utils, ssh, sudo, systemd-shim, sysvinit-utils, tar, udisks, ulatency, util-linux, vim-tiny, xfsprogs, xz-utils, zlib1g
+
+Description: Metapaquete que agrupa las aplicaciones básicas para Canaima
+ Este metapaquete agrupa un conjunto de aplicaciones básicas que conforman
+ una base mínima para la Metadistribución Canaima GNU/Linux  
+ Todos los sabores derivados de Canaima deben contener este metapaquete sin
+ modificaciones.

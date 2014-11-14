@@ -1,0 +1,5 @@
+canaima-base (0.1.1) unstable; urgency=low
+-- Hector A. Mantellini <xombra.com@gmail.com> / Angel Cruz <bullgram@gmail.com>  02 Jul 2014 20:11:00 -0430
+Cambio en paquetes que llaman a su dependencias evitando recursividad innecesaria 
+ * First release
+ -- Jesus Palencia <sinfallas@gmail.com>  01 Jul 2014 19:44:00 -0430

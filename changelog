@@ -1,0 +1,89 @@
+commit e9adfab7ad847a767b01ca2319feba2ff8bf05d4 (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Aug 20 15:03:59 2014 -0430
+
+    * bugfix
+
+commit 06a23fa686cb4e4430b6a12d9c0c4be4505e096d
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Aug 20 14:58:02 2014 -0430
+
+    * changelog
+
+commit bde496bd39dcfd4a23e630ba0476c6c67da21e23
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Aug 20 14:49:31 2014 -0430
+
+    * integracion con systemd
+
+commit 5833afee5baf5aa8326375140bc2637d38939f52
+Author: xombra <xombra.com@gmail.com>
+Date:   Thu Aug 14 12:09:37 2014 -0430
+
+    Intento de Integracion entre SystemD & SystemV
+
+commit 7fd65b3307b92cd8d55e817ea4a65720c15f33f0
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sat Jul 26 13:32:14 2014 -0430
+
+    * correcciones a control
+
+commit dd28d77c93554153358b849e4e542ee0212ad7d2
+Author: xombra <xombra.com@gmail.com>
+Date:   Thu Jul 24 14:04:26 2014 -0430
+
+    Eliminacion de algunos paquetes y agrgados otros que son relevantes
+
+commit 3011caf73903236cf165ffe5d30af65eb5004a2f
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Thu Jul 3 20:06:51 2014 -0430
+
+    * changelog
+
+commit c13690562d33cd2b70a28a99f591e776d1616353
+Author: xombra <xombra.com@gmail.com>
+Date:   Thu Jul 3 20:05:16 2014 -0430
+
+    modificado, se agregan datos en AUTHORS
+
+commit 05dcdd6ef8d35c759ee0464a16f2920f9eb41051
+Author: xombra <xombra.com@gmail.com>
+Date:   Thu Jul 3 19:26:51 2014 -0430
+
+    actualizado
+
+commit f3b0ed30fd0410a5c4988abf904c172d78e446dd
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Jul 2 20:42:59 2014 -0430
+
+    se agregan los cambios realizados
+
+commit 06f4fb4ee2fb5677fdca4e23c6fca8c14ddb85ec
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Jul 2 20:42:30 2014 -0430
+
+    Cambio en paquetes que llaman a su dependencias evitando recursividad innecesaria
+
+commit 6b54767d451abb5a09c28b8efde6649cabcdb45f
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Wed Jul 2 15:32:27 2014 -0430
+
+    * misc
+
+commit 74c992a7727d46e0224c52df46db8f3148cc54a8 (tag: v0.1)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Wed Jul 2 15:19:09 2014 -0430
+
+    * changelog
+
+commit eb2da7fe4ad4d9d526f011b14e5753c54f1029e2
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Wed Jul 2 15:18:38 2014 -0430
+
+    * subida de archivos
+
+commit df077755bfd8214b37ce3c3573d633d390da766d
+Author: Jesus Palencia <sinfallas@users.noreply.github.com>
+Date:   Wed Jul 2 15:16:51 2014 -0430
+
+    Initial commit

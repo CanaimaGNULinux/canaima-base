@@ -14,6 +14,6 @@ Depends: acpi-support, awk, base-files, base-passwd, bash-completion, bsdutils, 
 
 Description: Metapaquete que agrupa las aplicaciones básicas para Canaima
  Este metapaquete agrupa un conjunto de aplicaciones básicas que conforman
- una base mínima para la Metadistribución Canaima GNU/Linux  
+ una base mínima para la Metadistribución Canaima GNU/Linux.
  Todos los sabores derivados de Canaima deben contener este metapaquete sin
  modificaciones.

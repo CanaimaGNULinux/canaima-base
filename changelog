@@ -1,4 +1,16 @@
-commit 0b5f02d08a1e65c2be95781a74cb1acdaee52ce6 (HEAD, origin/master, origin/HEAD, master)
+commit 39fc8cd03dc02b3ee2f9b9f95225ffd13b25b59f (HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Apr 15 19:20:24 2015 -0430
+
+    * Optimizado el paquete con nuevas funciones bases
+
+commit c3732b3a323a0996cc9b89bfede4f079e5a6d25a (origin/master, origin/HEAD)
+Author: xombra <xombra.com@gmail.com>
+Date:   Fri Dec 5 20:40:32 2014 -0430
+
+    * changelog
+
+commit 0b5f02d08a1e65c2be95781a74cb1acdaee52ce6
 Author: xombra <xombra.com@gmail.com>
 Date:   Fri Dec 5 20:39:37 2014 -0430
 

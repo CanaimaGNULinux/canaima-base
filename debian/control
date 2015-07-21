@@ -2,7 +2,7 @@ Source: canaima-base
 Section: metapackages
 Priority: required
 Maintainer: Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve> | Jesus Palencia <sinfallas@gmail.com> | Hector Mantellini <xombra.com@gmail.com>
-Build-Depends: debhelper,cdbs
+Build-Depends: debhelper, cdbs
 Standards-Version: 3.9.5
 Homepage: http://canaima.softwarelibre.gob.ve/
 
@@ -10,7 +10,7 @@ Package: canaima-base
 Maintainer: Jesus Palencia <sinfallas@gmail.com> Hector A. Mantellini <xombra.com@gmail.com>
 Architecture: all
 
-Depends:acpi-support, base-files,base-passwd,bash-completion,bsdutils,canaima-llaves,dash,debconf-i18n,devio,diffutils,discover,dmraid,dnsmasq,dosfstools,e2fsprogs,fakeroot,findutils,firmware-linux,firmware-linux-free,fuse,gcc,gcp,grep,grub-pc, gvfs-fuse,gzip,hdparm,hostname,init-system-helpers,initramfs-tools,intltool-debian,iotop,iproute2,laptop-detect,lm-sensors,localepurge,locales,login,lsb-release,lshw,lvm2,mawk,mesa-utils,ncurses-base,ncurses-bin,ntfs-3g,ntfsprogs,ntpdate,pciutils,perl-base,pm-utils,prelink,powertop,sed,sensible-utils,ssh,sudo,tar,udisks,ulatency,util-linux,vim-tiny,xfsprogs,xz-utils,usbmuxd,usbutils,usbview
+Depends: acpi-support, base-files, base-passwd, bash-completion, bsdutils, canaima-llaves, dash, debconf-i18n, diffutils, discover, dmraid, dnsmasq, dosfstools, e2fsprogs, fakeroot, findutils, fuse, gcc, gcp, grep, grub-pc,  gvfs-fuse, gzip, hdparm, hostname, init-system-helpers, initramfs-tools, intltool-debian, iotop, iproute2, laptop-detect, lm-sensors, localepurge, locales, login, lsb-release, lshw, lvm2, mawk, mesa-utils, ncurses-base, ncurses-bin, ntfs-3g, ntfsprogs, ntpdate, pciutils, perl-base, pm-utils, prelink, powertop, sed, sensible-utils, ssh, sudo, tar, udisks, util-linux, vim-tiny, xfsprogs, xz-utils, usbmuxd, usbutils, usbview
 
 Description: Metapaquete que agrupa las aplicaciones básicas para Canaima
  Este metapaquete agrupa un conjunto de aplicaciones básicas que conforman

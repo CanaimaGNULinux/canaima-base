@@ -1,10 +1,22 @@
-commit 16fed9c756857774c5764a1321aa8bca5b23d68e (HEAD, master)
+commit cd3e91908a65376da7fee27b0bbdb1f5d6d17969 (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Tue Jul 21 16:17:41 2015 -0430
+
+    * eliminacion de paquetes
+
+commit 9295cacc26ca0fc2428579f3db4ba4b6cfa79a58
+Author: xombra <xombra.com@gmail.com>
+Date:   Tue Jul 21 15:59:29 2015 -0430
+
+    * changelog
+
+commit 16fed9c756857774c5764a1321aa8bca5b23d68e
 Author: xombra <xombra.com@gmail.com>
 Date:   Tue Jul 21 15:59:07 2015 -0430
 
     * changelog
 
-commit 1f674931aedb65bb88fadf28580d29c851462e34 (origin/master, origin/HEAD)
+commit 1f674931aedb65bb88fadf28580d29c851462e34
 Author: xombra <xombra.com@gmail.com>
 Date:   Tue Jul 21 15:58:29 2015 -0430
 

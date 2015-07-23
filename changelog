@@ -1,4 +1,22 @@
-commit cd3e91908a65376da7fee27b0bbdb1f5d6d17969 (HEAD, origin/master, origin/HEAD, master)
+commit af819039856bde50be532af14fa77dd1b409ce1c (HEAD, origin/master, origin/HEAD, master)
+Author: lynxblack <jeidi.brito@gmail.com>
+Date:   Thu Jul 23 09:05:17 2015 -0430
+
+    * bug fixed
+
+commit 7a2b7121cdab02cf5bbd38d2ab0cc5daa559df77
+Author: Hector A Mantellini <xombra.com@gmail.com>
+Date:   Wed Jul 22 12:53:52 2015 -0430
+
+    * paquetes eliminados no necesarios
+
+commit 6426af3a3940a5b3625a3e001d6cddc6397edc0a
+Author: xombra <xombra.com@gmail.com>
+Date:   Tue Jul 21 16:18:22 2015 -0430
+
+    * changelog
+
+commit cd3e91908a65376da7fee27b0bbdb1f5d6d17969
 Author: xombra <xombra.com@gmail.com>
 Date:   Tue Jul 21 16:17:41 2015 -0430
 
